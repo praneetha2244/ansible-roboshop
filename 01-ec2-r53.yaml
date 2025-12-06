@@ -2,8 +2,8 @@
   hosts: local
   connection: local
   vars:
-    ami-id: AKIA3JLOY5Z4DQ7CQ2FY
-    sg-id: s+Gng8u34eaV3060RIvgDxSxVkYgZDV+DHFqV3oQ
+    ami-id: ami-09c813fb71547fc4f
+    sg-id: sg-037ea79c954371756
     zone-id: Z0476340LOT78SX6IPUE
     domain-name: "hhrp.life"
     instances:
