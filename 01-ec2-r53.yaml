@@ -2,10 +2,10 @@
   hosts: local
   connection: local
   vars:
-    ami-id: ami-09c813fb71547fc4f
-    sg-id: sg-037ea79c954371756
-    zone-id: Z0476340LOT78SX6IPUE
-    domain-name: "hhrp.life"
+    ami_id: ami-09c813fb71547fc4f
+    sg_id: sg-037ea79c954371756
+    zone_id: Z0476340LOT78SX6IPUE
+    domain_name: "hhrp.life"
     instances:
     - mongodb
   tasks:
